@@ -1,16 +1,31 @@
-## Hi there 👋
+# BottleneckLab
 
-<!--
-**BottleneckLab/BottleneckLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BottleneckLab is a free CPU/GPU bottleneck calculator for gamers, streamers, and PC builders.
 
-Here are some ideas to get you started:
+Website: https://bottlenecklab.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What BottleneckLab Helps With
+
+- CPU/GPU bottleneck checking
+- gaming PC upgrade planning
+- CPU and GPU pairing guidance
+- 1080p, 1440p, and 4K gaming decisions
+- practical bottleneck verification
+
+## Main Tool
+
+Use BottleneckLab here:
+
+https://bottlenecklab.com/
+
+## Public Resources
+
+- BottleneckLab methodology: coming soon
+- PC bottleneck testing checklist: coming soon
+- CPU/GPU pairing examples: coming soon
+
+## Our Approach
+
+BottleneckLab treats bottleneck results as practical estimates, not exact FPS promises.
+
+Real-world performance should always be verified with CPU usage, GPU usage, temperatures, RAM, VRAM, drivers, and frame-time behavior.
